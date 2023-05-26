@@ -1,0 +1,14 @@
+{
+    "APP": {
+        "STAGE": "local",
+        "APP_VERSION": "0.52",
+        "APP_PORT": "3000",
+        "SET_SWAGGER": "true"
+    },
+    "MONGO_URI": "mongodb://127.0.0.1:27017/testing_devlopment",
+    "USERS": {
+        "SUPER_USER_ID": "4e4c4de1-85f4-4kk9-829a-48cba0a375b7",
+        "SUPER_USER_CLIENT_ID": "790193a7-c503-4bfa-9kk7-c46b1ckdc076",
+        "SUPER_USER_CLIENT_SECRET": "ed49891a-84ec-4281-8cd2-40l8ekkb5ac1"
+    }
+}
