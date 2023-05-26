@@ -39,35 +39,6 @@ $ npm install
 $ npm run start:local
 ```
 
-## Serverless - Deploy
-
-```bash
-# Deploy Serverless 
-$ npm run sls:deploy
-```
-
-## Serverless - Remove
-
-```bash
-# Remove Serverless
-$ npm run sls:remove
-```
-
-## Serverless - Remove Old Versions
-
-```bash
-# Remove Serverless - Development
-$ sls:remove-old-versions-development
-
-# Remove Serverless - Production
-$ npm run sls:remove-old-versions-production
-
-# Remove Serverless - uat
-$ npm run sls:remove-old-versions-uat
-
-# Remove Serverless - Testing
-$ npm run sls:remove-old-versions-testing
-```
 
 ## Test
 
